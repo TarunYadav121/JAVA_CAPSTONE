@@ -1,5 +1,3 @@
-Name : Krish
+Name : Tarun Yadav
 course : Btech CSE (FSD)
-Roll no : 2401350009
-
-This is my Java Assignment
+Roll no : 2401350015
